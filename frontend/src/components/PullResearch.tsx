@@ -144,7 +144,7 @@ export const PullResearch: React.FC<PullResearchProps> = ({
                 <div className="flex items-center space-x-2 font-mono">
                   <h2 className="text-base font-bold text-slate-100">{report.ticker}</h2>
                   <span className="text-xs px-2 py-0.5 rounded bg-slate-800 text-cyan-400 border border-slate-700">
-                    Primary Sourced
+                    Demo Data
                   </span>
                 </div>
                 <p className="text-xs text-slate-400">{report.company_name}</p>
@@ -157,7 +157,7 @@ export const PullResearch: React.FC<PullResearchProps> = ({
             {/* Primary Document Citations Bar */}
             <div className="pt-2 border-t border-slate-800/80">
               <span className="text-[10px] text-slate-400 font-mono block mb-1">
-                Primary Sources Analyzed ({report.primary_documents_analyzed.length}):
+                Demo Source References ({report.primary_documents_analyzed.length}):
               </span>
               <div className="flex flex-wrap gap-1.5 font-mono text-[10px]">
                 {report.primary_documents_analyzed.map((doc, idx) => (
