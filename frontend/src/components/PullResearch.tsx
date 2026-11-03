@@ -122,7 +122,7 @@ export const PullResearch: React.FC<PullResearchProps> = ({
         <div className="flex items-center space-x-2 p-2 rounded-lg bg-emerald-950/20 border border-emerald-900/40 text-[11px] text-emerald-300 font-mono">
           <ShieldCheck className="w-4 h-4 text-emerald-400 shrink-0" />
           <span>
-            <strong>Grounding Discipline:</strong> Analyzed exclusively from Annual Reports & Concall Transcripts. Zero secondary broker notes or ungrounded external model assumptions.
+            <strong>Grounding Discipline:</strong> Demo corpus uses pre-seeded data and source labels that have not been fully audited against primary documents; treat results as illustrative.
           </span>
         </div>
       </div>
