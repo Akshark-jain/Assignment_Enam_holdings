@@ -788,3 +788,4 @@ export const PullResearch: React.FC<PullResearchProps> = ({
     </div>
   );
 };
+

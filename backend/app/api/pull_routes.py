@@ -81,3 +81,4 @@ def query_primary_sources(payload: CopilotQueryRequest):
         "grounding_discipline": "Strictly derived from Annual Reports & Concall Transcripts (No secondary broker notes)",
         "source_citations": citations
     }
+

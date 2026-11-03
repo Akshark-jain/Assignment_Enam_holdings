@@ -133,3 +133,4 @@ def enrich_quarterly_results(ticker: str, filing_text: str, quarterly_data: Opti
             "Interest cost disciplined due to internal cash generation"
         ]
     )
+

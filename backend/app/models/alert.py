@@ -38,3 +38,4 @@ class TriggeredAlert(BaseModel):
     timestamp: str
     relative_time: str
     linked_filing_id: Optional[str] = None
+

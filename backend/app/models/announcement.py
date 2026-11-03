@@ -63,3 +63,4 @@ class Announcement(BaseModel):
     raw_filing_excerpt: Optional[str] = None
     management_enrichment: Optional[ManagementChangeEnrichment] = None
     results_enrichment: Optional[QuarterlyResultsEnrichment] = None
+

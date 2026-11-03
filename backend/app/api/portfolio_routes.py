@@ -98,3 +98,4 @@ def remove_ticker(ticker: str):
         raise HTTPException(status_code=404, detail=f"Ticker {ticker} not found in watchlist")
         
     return {"status": "success", "message": f"Removed {norm}"}
+

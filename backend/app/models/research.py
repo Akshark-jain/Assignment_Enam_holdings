@@ -136,3 +136,4 @@ class PullResearchReport(BaseModel):
     guidance: Guidance
     bull_vs_bear: BullVsBear
     worked_example: WorkedExample
+

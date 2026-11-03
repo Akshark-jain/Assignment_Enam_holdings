@@ -973,3 +973,4 @@ def get_grounded_research_corpus() -> Dict[str, Dict[str, Any]]:
             }
         }
     }
+

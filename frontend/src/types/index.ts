@@ -253,3 +253,4 @@ export interface PullResearchReport {
   bull_vs_bear: BullVsBear;
   worked_example: WorkedExample;
 }
+

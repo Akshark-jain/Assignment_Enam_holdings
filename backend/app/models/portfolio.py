@@ -31,3 +31,4 @@ class PortfolioSummary(BaseModel):
     top_losers: List[Stock]
     high_volume_movers: List[Stock]
     sector_breakdown: dict
+

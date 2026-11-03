@@ -133,3 +133,4 @@ npm run dev
 1. **Direct Audio Concall Playback:** Timestamped audio player jumping straight to the analyst Q&A moment where management gave the cited guidance quote.
 2. **Custom Screener Webhooks:** Real-time webhook ingestion directly from BSE/NSE RSS feeds for instant sub-minute filing classification.
 3. **Portfolio Risk Attribution:** Portfolio-level factor exposure (e.g., aggregate foreign currency sensitivity, weighted ROCE, or net debt exposure).
+

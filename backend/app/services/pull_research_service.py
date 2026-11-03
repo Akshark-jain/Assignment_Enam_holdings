@@ -321,3 +321,4 @@ def get_pull_research(ticker: str) -> PullResearchReport:
 
     _RESEARCH_CACHE[norm_ticker] = dynamic_report
     return dynamic_report
+

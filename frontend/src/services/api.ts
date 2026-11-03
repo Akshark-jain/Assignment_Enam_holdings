@@ -97,3 +97,4 @@ export async function queryCopilot(ticker: string, question: string): Promise<an
   if (!res.ok) throw new Error('Failed to query copilot');
   return res.json();
 }
+

@@ -176,3 +176,4 @@ def evaluate_alerts(
     severity_order = {AlertSeverity.CRITICAL: 3, AlertSeverity.HIGH: 2, AlertSeverity.WATCH: 1}
     alerts.sort(key=lambda a: (severity_order.get(a.severity, 0), a.timestamp), reverse=True)
     return alerts
+

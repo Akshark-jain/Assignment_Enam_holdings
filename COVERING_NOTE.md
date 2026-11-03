@@ -77,3 +77,4 @@ The application implements two distinct interaction workflows:
    Screening which portfolio companies generate high FCF but fail to reinvest at ROCE $>$ cost of capital.
 4. **Automated WhatsApp / Telegram EOD Briefing:**
    Pioneering a 6:00 PM market-close audio/text digest dispatched directly to the investment committee's mobile phones.
+
